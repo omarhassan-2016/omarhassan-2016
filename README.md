@@ -81,27 +81,6 @@
 
 <br/>
 
-## 📊 Github Stats
-
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omarhassan-2016&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  </p>
-
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=omarhassan-2016&custom_title=omarhassan-2015's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
-
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarhassan-2016&layout=compact&theme=algolia" alt="omarhassan-2016" /></a> </p>
